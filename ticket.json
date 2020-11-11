@@ -1,0 +1,12 @@
+{"type": "Balcony Level", 
+"price": 100, 
+"inventory": 20
+},
+{"type": "Lower Level", 
+"price": 500, 
+"inventory": 25
+},
+{"type": "Curtside", 
+"price": 1000, 
+"inventory": 30
+},

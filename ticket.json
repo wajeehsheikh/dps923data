@@ -1,4 +1,5 @@
-{"type": "Balcony Level", 
+{"Tickets":
+[{"type": "Balcony Level", 
 "price": 100, 
 "inventory": 20
 },
@@ -9,4 +10,5 @@
 {"type": "Curtside", 
 "price": 1000, 
 "inventory": 30
-},
+}]
+}
